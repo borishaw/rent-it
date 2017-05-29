@@ -1,8 +1,9 @@
 # Project Description
 Rent-it is a tool rental website (similar to Airbnb for tools and equipments).
-John has many tools at his home and is running out of space and also he is looking for a way to make money from his tools collection. Jan rarely uses tools and don't like spending 500$ to buy a tool.
 
-with Rent-it, John can rent his tools and not only have more space at home, but also make money. Also Jan can rent a tool instead of buying it and save money.
+Consider a scenario, John has many tools at his home and is running out of space and also he is looking for a way to make money from his tools collection. Jan rarely uses tools and don't like spending 500$ to buy a tool.
+
+With Rent-it, John can rent his tools and not only have more space at home, but also make money. Also Jan can rent a tool instead of buying it and save money.
 
 # Functional Specifications:
 * Users can put their tools for rent
